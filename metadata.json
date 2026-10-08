@@ -1,0 +1,6 @@
+{
+  "name": "Affine Orbit & Multiscale Compression Lab",
+  "description": "An interactive laboratory for finite-field affine transform decimation, structural completion compressibility ρ(X,k), hierarchical GF(257) coordinate spaces, and asynchronous swarm resonance exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
